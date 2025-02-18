@@ -8,12 +8,11 @@ topoEEG is a Python-based analytical framework designed to process and analyze E
 ├── Figures/
 ├── topoEEG/
 ├──├── data/
-├──├── test/
+├──├── tests/
 ├──├──├── test.py
 ├──├── __init__.py
 ├──├── read_file.py
 ├──├── analysis.py
-├──├── data.py
 ├──├── plotting.py
 ├──└── utils.py
 ├── setup.py
