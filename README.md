@@ -26,7 +26,7 @@ LICENSE
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/MiriamEsteve/topoEEG.git
+git clone https://github.com/JandroMartinez/topoEEG.git
 cd topoEEG
 ```
 
